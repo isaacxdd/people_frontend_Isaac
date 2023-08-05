@@ -1,0 +1,1 @@
+export const baseUrl = "https://people-backend-isaac.onrender.com"
